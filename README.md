@@ -20,4 +20,3 @@ const Panji97 = {
     "Git"
   ]
 }
-```
