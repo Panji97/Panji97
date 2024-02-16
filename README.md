@@ -11,10 +11,12 @@ const Panji97 = {
   db: [
     "MongoDB",
     "MySQL",
+    "MariaDB"
   ],
   lib:[
-    "Express",
-    "React"
+    "ExpressJS",
+    "NestJS,
+    "ReactJS"
   ],
   tools:[
     "Git"
