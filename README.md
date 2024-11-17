@@ -9,16 +9,19 @@ const Panji97 = {
     "Javascript",
   ],
   db: [
-    "MongoDB",
+    "PostgresSQL",
     "MySQL",
-    "MariaDB"
+    "MariaDB",
+    "MongoDB",
   ],
   lib:[
     "ExpressJS",
     "NestJS,
-    "ReactJS"
+    "ReactJS",
+    "NextJS"
   ],
   tools:[
-    "Git"
+    "Git",
+    "Docker"
   ]
 }
